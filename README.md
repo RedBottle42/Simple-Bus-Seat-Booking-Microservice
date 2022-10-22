@@ -1,2 +1,2 @@
-# Simple-Bus-Seat-Booking-Microservice
-Arsitektur deployment sederhana pemesanan kursi bus dengan microservice container di Google Cloud
+# Simple-Hotel-Guest-List-Microservice
+Arsitektur deployment sederhana pendataan kamar hotel dengan container di Google Cloud
