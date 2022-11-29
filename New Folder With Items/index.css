@@ -27,9 +27,9 @@
     font-weight: 300;
 }
 
-.section-intro {
-    height: 820px;
-    background-image: url(https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80);
+.section-intro 1 {
+    height: 750px;
+    background-image: url(https://w0.peakpx.com/wallpaper/514/96/HD-wallpaper-scania-touring-big-white-bus-side-view-passenger-bus-comfortable-buses-scania.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -214,7 +214,7 @@ a.link-to-book:hover {
 .nav-flex-row li {
     text-decoration: none;
     list-style-type: none;
-    padding: 20px 15px;
+    padding: 10px 15px;
 }
 
 .nav-flex-row li a {
@@ -226,8 +226,8 @@ a.link-to-book:hover {
 }
 
 .section-intro {
-    height: 820px;
-    background-image: url(https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80);
+    height: 750px;
+    background-image: url(https://w0.peakpx.com/wallpaper/514/96/HD-wallpaper-scania-touring-big-white-bus-side-view-passenger-bus-comfortable-buses-scania.jpg);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -237,9 +237,9 @@ a.link-to-book:hover {
 
 .section-intro h10 {
     text-align: center;
-    color: #ffffff;
+    color: #f5fff9;
     font-size: 2em;
-    font-weight: 700;
+    font-weight: 400;
 }
 
 .section-intro header {
@@ -247,7 +247,7 @@ a.link-to-book:hover {
     flex: 4;
     flex-direction: row;
     justify-content: center;
-    align-items: center;
+    align-items: center
 }
 
 .link-to-book-wrapper {
@@ -265,7 +265,7 @@ a.link-to-book:hover {
     color: #ffffff;
     display: block;
     border: 2px solid #ffffff;
-    padding: 5px 10px;
+    padding: 10px 10px;
 }
 
 a.link-to-book:hover {
